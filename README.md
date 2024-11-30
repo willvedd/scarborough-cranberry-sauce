@@ -2,11 +2,19 @@
 
 <img align="right" style="padding:0 0 20px 20px;width:40%; max-width:400px;" src="./cranberries-3.jpg">
 
-My sweet grandmother is mostly known for her loving dedication and ability to smoke you at [bridge](https://en.wikipedia.org/wiki/Contract_bridge). But above all else, she is renowned for her cranberry sauce. This recipe has been passed down through many generations of the Scarborough family, having a special place at the dinner table during Thanksgiving, Christmas or anytime we eat together.
-
+ - **Recipe:** Fun to make, forgiving, surprisingly easy
+ - **Best paired with:** Traditional turkey dinner
  - **Time:** ~1h30m, most of which is idling while recipe cools
  - **Yields:** ~10 generous servings
- - **Best paired with:** Traditional turkey dinner
+ 
+
+
+
+
+## History
+
+My sweet grandmother is mostly known for her loving dedication and ability to smoke you at [bridge](https://en.wikipedia.org/wiki/Contract_bridge). But above all else, she is renowned for her cranberry sauce. This recipe has been passed down through many generations of the Scarborough family, having a special place at the dinner table during Thanksgiving, Christmas or anytime we eat together.
+
 
 ## Ingredients
 - Raw cranberries – One 12oz bag 
@@ -29,6 +37,9 @@ My sweet grandmother is mostly known for her loving dedication and ability to sm
 --- 
 
 ## Make Log
+
+### Nov 28, 2024
+Used a bit less sugar and came out quite balanced. But I wouldn't use less than 1/3 cup, otherwise too bitter. Also tried cooking on higher heat which resulted in a more violent popping of cranberries; would recommend medium heat going forward. Still came out perfect and enjoyed by many.
 
 ### Nov 26, 2020
 Made a large batch for friends and family, no negative effects from tripling ingredients. Used Ocean Spray "superfruit" cranberries (12oz). Didn't need to pick out many rancid berries, usually need to remove about a dozen per bag. Turned out great!
